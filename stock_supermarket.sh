@@ -1,2 +1,2 @@
-mv delivery/apple.txt fruit
-mv delivery/bison_Burgers.txt meat
+mv delivery/apple fruit
+mv delivery/bison_Burgers meat
