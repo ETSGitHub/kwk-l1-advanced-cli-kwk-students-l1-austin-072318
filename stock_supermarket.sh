@@ -24,4 +24,5 @@ mv delivery/trail_mix.txt snax
 mv delivery/turkey_breat.txt meat
 mv delivery/velveeta_cheese.txt dairy
 mv delivery/watermelon.txt fruit
-mv delivery/
+mv delivery/whole_chicken.txt meat
+mv delivery/wonder_bread.txt snax
