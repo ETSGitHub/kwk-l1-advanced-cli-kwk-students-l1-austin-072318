@@ -12,3 +12,4 @@ mv delivery/lamb_ribs.txt meat
 mv delivery/land_o_lakes_butter.txt dairy
 mv delivery/lean_cuisine.txt freezer
 mv delivery/leeks.txt veggies
+my delivery/
