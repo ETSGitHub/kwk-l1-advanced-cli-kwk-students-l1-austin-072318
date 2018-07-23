@@ -1,4 +1,3 @@
-grep dog a_lot_of_text.a_lot_of_text
 
 The Adventures of Huckleberry Finn, Complete
 by
