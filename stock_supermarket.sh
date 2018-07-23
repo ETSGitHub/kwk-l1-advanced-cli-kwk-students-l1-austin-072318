@@ -3,3 +3,5 @@ mv delivery/bison_Burgers meat
 mv delivery/carrot_cake.txt dessert
 mv delivery/fage_yogurt.txt dairy
 mv delivery/flourless_cake.txt dessert
+mv delivery/garlic.txt vegetable/garlic.txt
+mv delivery/goldfish.txt snax/goldfish.txt
