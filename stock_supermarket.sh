@@ -1,2 +1,2 @@
-mv delivery/apple fruit
+mv delivery/apples fruit
 mv delivery/bison_Burgers meat
