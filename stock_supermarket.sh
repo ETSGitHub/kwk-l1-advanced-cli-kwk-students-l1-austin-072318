@@ -21,7 +21,7 @@ mv delivery/salmon_steak.txt meat
 mv delivery/tiramisu_cake.txt dessert
 mv delivery/tomatoes.txt veggies
 mv delivery/trail_mix.txt snax
-mv delivery/turkey_breat.txt meat
+mv delivery/turkey_breast.txt meat
 mv delivery/velveeta_cheese.txt dairy
 mv delivery/watermelon.txt fruit
 mv delivery/whole_chicken.txt meat
